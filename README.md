@@ -1,16 +1,21 @@
-# Java Practice ☕
+# ☕ Java Practice
 
-Hi! I'm a **B.Tech CSE student (1st Year, 2nd Semester)** at **GLA University, Mathura**. This repository is where I track my progress as I learn Java and logic building.
+This repository is a collection of my Java programs and logic-building exercises as a **B.Tech Computer Science student (1st Year, 2nd Semester)**.
 
 ## 📂 Repository Structure
 
-* **/Pattern_printing**: Programs focused on nested loop logic and star patterns.
-* **Lab-Work**: Solutions to my college lab assignments.
+* **📁 Pattern_printing:** A dedicated collection of programs for printing different patterns to master nested loops and coordinate logic.
 
-## 💻 Tech Stack
-- **Language:** Java
-- **IDE:** Visual Studio Code
-- **Device:** HP Pavilion Plus 14
+## 🛠 Tech Stack & Environment
+
+* **Language:** Java
+* **IDE:** Visual Studio Code
+* **Hardware:** HP Pavilion Plus 14 (ew0xxx series)
+
+## 🎯 Goals
+
+* Master core Java and object-oriented programming (OOP) concepts.
+* Build a solid foundation for future development projects and placements.
 
 ---
-*Follow my journey as I build my foundation in Computer Science!*
+*Stay consistent and keep coding!*
