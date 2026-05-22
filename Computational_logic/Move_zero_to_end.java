@@ -1,3 +1,5 @@
+// Input:  n = 5, array = [1, 0, 2, 0, 3]
+// Output: [1, 2, 3, 0, 0]
 import java.util.*;
 public class Move_zero_to_end {
     public static void main(String[] args) {
